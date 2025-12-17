@@ -1,0 +1,8 @@
+{
+  "name": "Trustavo",
+  "description": "A temporary messaging platform where identities and content vanish after 24 hours. Connect securely with the world.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
